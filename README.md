@@ -1,3 +1,4 @@
+<!-- reading the source? rule 01: verify, don’t trust. -->
 <a href="https://omium.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/hero-dark.svg"><img src="assets/v2/hero-light.svg" alt="agents fail, ours recover — anurag upadhyay, co-founder of omium" width="100%"></picture></a>
 
 **co-founder @ [omium](https://omium.ai)** — self-healing infrastructure for ai agents.
@@ -21,7 +22,9 @@ most agent infra assumes the happy path. production isn't the happy path. omium 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/heatmap-dark.svg"><img src="assets/v2/heatmap-light.svg" alt="contribution heatmap — updated daily" width="100%"></picture>
 
 <!-- stats -->
-**1,098** contributions in the last year — **85%** of it heads-down in omium’s private repos.
+**1,099** contributions in the last year — **85%** of it heads-down in omium’s private repos.
 <!-- /stats -->
 
 <div align="right"><samp><a href="https://omium.ai">omium.ai</a> · <a href="https://x.com/AgniSut">x</a> · <a href="https://www.linkedin.com/in/anurag-upadhyay-023584222/">linkedin</a></samp></div>
+
+<sub><samp>this page rebuilds itself every morning — <a href=".github/workflows/stats.yml">here’s how</a></samp></sub>
