@@ -8,4 +8,14 @@ most agent infra assumes the happy path. production isn't the happy path. omium 
 
 <a href="https://github.com/coderthroughout/codeswarm"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/codeswarm-dark.svg"><img src="assets/v2/codeswarm-light.svg" alt="codeswarm — a multi-agent swe swarm — plans, patches, tests" width="49%"></picture></a><a href="https://github.com/coderthroughout/Aria"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/aria-dark.svg"><img src="assets/v2/aria-light.svg" alt="aria — three weeks of analyst work in three hours." width="49%"></picture></a><a href="https://github.com/coderthroughout/CortexOS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/cortexos-dark.svg"><img src="assets/v2/cortexos-light.svg" alt="cortexos — a memory system for ai systems — recall as" width="49%"></picture></a><a href="https://github.com/coderthroughout/Attention-Is-All-You-Need-Implementation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/attention-dark.svg"><img src="assets/v2/attention-light.svg" alt="attention — the transformer paper, line by line, in pytorch." width="49%"></picture></a>
 
+<sub><samp>OPERATING PRINCIPLES</samp></sub>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/rule1-dark.svg"><img src="assets/v2/rule1-light.svg" alt="verify, don’t trust." width="32%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/rule2-dark.svg"><img src="assets/v2/rule2-light.svg" alt="recover, don’t retry." width="32%"></picture><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/rule3-dark.svg"><img src="assets/v2/rule3-light.svg" alt="learn, don’t repeat." width="32%"></picture>
+
+<sub><samp>NOW</samp></sub>
+
+<a href="https://omium.ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/now-dark.svg"><img src="assets/v2/now-light.svg" alt="now — building omium’s training plane — agent swarms minting recovery data" width="100%"></picture></a>
+
+<!-- stats -->**1,094** contributions in the last year — **86%** of it heads-down in omium’s private repos.<!-- /stats -->
+
 <div align="right"><samp><a href="https://omium.ai">omium.ai</a> · <a href="https://x.com/AgniSut">x</a> · <a href="https://www.linkedin.com/in/anurag-upadhyay-023584222/">linkedin</a></samp></div>
