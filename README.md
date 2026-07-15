@@ -22,7 +22,7 @@ most agent infra assumes the happy path. production isn't the happy path. omium 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2/heatmap-dark.svg"><img src="assets/v2/heatmap-light.svg" alt="contribution heatmap — updated daily" width="100%"></picture>
 
 <!-- stats -->
-**1,273** contributions in the last year — **88%** of it heads-down in omium’s private repos.
+**1,325** contributions in the last year — **88%** of it heads-down in omium’s private repos.
 <!-- /stats -->
 
 <div align="right"><samp><a href="https://omium.ai">omium.ai</a> · <a href="https://x.com/AgniSut">x</a> · <a href="https://www.linkedin.com/in/anurag-upadhyay-023584222/">linkedin</a></samp></div>
